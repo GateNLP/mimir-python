@@ -2,7 +2,7 @@
 
 A client library for working with Mímir search in Python.
 
-Supports the Mímir API as described in [the documentation for mimir]{https://gate.ac.uk/mimir/doc/mimir-guide.pdf}.
+Supports the Mímir API as described in [the documentation for mimir](https://gate.ac.uk/mimir/doc/mimir-guide.pdf).
 
 Also adds context helpers to deal with initialising and removing queries, and iterators to allow for more pythonic use. 
 
